@@ -196,21 +196,3 @@ Termux / Kali / Ubuntu / Windows
 
 ---
 
-## 🔗 More HackPath Tools
-
-| Tool | Repo |
-|------|------|
-| 🔓 CTF Helper v2 | [hackpath-ctf-helper](https://github.com/sachin-null/hackpath-ctf-helper) |
-| 🔐 PassGen v2 | [hackpath-passgen](https://github.com/sachin-null/hackpath-passgen) |
-| 🌐 OSINT Tool | [hackpath-osint](https://github.com/sachin-null/hackpath-osint) |
-| 📱 Phone Analyzer | [hackpath-phone-analyzer](https://github.com/sachin-null/hackpath-phone-analyzer) |
-
----
-
-<div align="center">
-
-**Star this repo if it helped you!**
-
-`Made with love by Sachin Ser | HackPath`
-
-</div>
